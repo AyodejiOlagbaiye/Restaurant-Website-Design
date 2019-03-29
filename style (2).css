@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.section {
+    background-image: url(/james-kern-1292079-unsplash.jpg);
+    background-size: contain;
+    width: 100%;
+    height: 450px;
+    text-align: center;
+    color: white;
+}
+
+.nav {
+    display: flex;
+}
+
+.foody {
+    margin-right: auto;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.menu {
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.menu>a {
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+}
+
+.landing {
+    margin-top: 40px;
+}
+
+.book {
+    background-color: coral;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 40px;
+}
+
+.chose {
+    font-size: 90px;
+}
+
+.section2 {
+    display: flex;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+}
+
+/* .image {
+    width: 50%;
+}
+
+.food {
+    height: 100px;
+} */
+
+.section3 {
+    background-color: #F7E9E3;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.section3 > a {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.section4 {
+    display: flex;
+}
+
+.section4 > div {
+    width: 100%;
+    height: 400px;
+}
+
+.box {
+    background-image: url(/ella-olsson-1299906-unsplash.jpg);
+    background-size: cover;
+}
+
+.box2 {
+    text-align: center;
+    color: white;
+}
+
+.section5 {
+
+}
+
+.section6 {
+    background-image: url(/gaelle-marcel-1309092-unsplash.jpg);
+    background-size: cover;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.reservation {
+    color: white;
+    font-weight: 300px;
+    margin-left: 680px;
+    font-size: 40px;
+}
+
+.input {
+    margin-left: 500px;
+}
+
+input {
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.btn-reserve {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.section7 {
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+}
+
+.chefboxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.chefbox {
+    width: 400px;
+    height: 300px;
+    background-image: url(/rawpixel-1298251-unsplash.jpg);
+}
+
+.chefbox2 {
+    width: 400px;
+    height: 300px;
+    background-image: url(/aditya-romansa-117300-unsplash.jpg);
+}
+
+.section8 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(/james-kern-1292079-unsplash.jpg);
+    height: 300px;
+}
+
+.subscribe {
+    color: white;
+}
+
+.these {
+    color: red;
+}
+
+.section9 {
+    background-image: url(/dose-juice-1184446-unsplash.jpg);
+    background-size: cover;
+    height: 300px;
+}
